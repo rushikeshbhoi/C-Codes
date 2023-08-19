@@ -3,13 +3,13 @@ int Data = 21; // Global Variable
 
 int main()
 {
-    char cValue = 'A';  // Local
+    char cValue = 'A';  // Local Variable
 
-    int iValue = 11;    // L
+    int iValue = 11;    // Local Variable
 
-    float fValue = 90.78f;
+    float fValue = 90.78f;    // Local Variable
 
-    double dValue = 78.1234;
+    double dValue = 78.1234;    // Local Variable
 
     printf("%c\n",cValue);
     printf("%d\n",iValue);
