@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "Marvellous.h"
+#include "Rushi.h"
 
 #define PI 3.14
 #define DOZEN 12
