@@ -13,9 +13,3 @@ int main()
 
     return 0;
 }
-
-// gcc Main.c Helper.c -o Myexe
-// ./Myexe
-
-// gcc Helper. Main.c c -o Myexe
-// ./Myexe
