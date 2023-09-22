@@ -26,6 +26,6 @@ int main()
 
     obj1.fun();
     obj2.fun();
-
+    
     return 0;
 }
